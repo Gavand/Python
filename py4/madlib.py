@@ -1,7 +1,7 @@
 '''
     Author: Gavin Andrews
     Date: 4/5/18
-    
+     
     Description:
     The main function of this program is to read a file from the user,
     which contains a Mad Lib story, replaces the corresponding speech labels
