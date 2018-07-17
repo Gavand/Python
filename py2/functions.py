@@ -1,8 +1,6 @@
 '''
     Author: Gavin Andrews
     Date: 02/16/18
-    Class: ISTA 130
-    Section Leader: Sebastian Andrews
     
     Description:
     This program runs eight functions that uses conversions and mathematical
