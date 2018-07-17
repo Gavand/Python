@@ -1,8 +1,6 @@
 '''
     Author: Gavin Andrews
     Date: 02/08/18
-    Class: ISTA 130
-    Section Leader: Sebastian Andrews
     
     Description:
     This program creates an abstract shaped snake with turtle by using shape functions like
