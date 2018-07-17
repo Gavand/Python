@@ -1,2 +1,2 @@
 # Python
-My Python projects.
+Python with libraries, packages, classes, functions, dictionaries, lists, etc.
