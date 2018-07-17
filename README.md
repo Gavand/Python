@@ -1,2 +1,2 @@
 # Python
-Python with libraries, packages, classes, functions, dictionaries, lists, etc.
+Python programs with libraries, packages, classes, functions, dictionaries, lists, etc.
