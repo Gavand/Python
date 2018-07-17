@@ -1,0 +1,14 @@
+a	a	a	a	a
+e	e	e	e	e
+i	i	i	i	i
+o	o	o	o	o
+u	u	u	u	u
+bcdfghjklmnpqrstvwxyz
+`1234567890-=
+~!@#$%^&*()_+
+{}|
+[]\
+:"
+;'
+<>?
+,./

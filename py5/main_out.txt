@@ -1,0 +1,18 @@
+
+Enter animal name (or "q" to quit): File does not contain "Exit".
+Add "Exit" to file? (y|n) 
+Enter animal name (or "q" to quit): African Elephant: body = 6654.0, brain = 5712.0
+Delete "African Elephant"? (y|n)
+Enter animal name (or "q" to quit): Yellow-Bellied Marmot: body = 4.05, brain = 17.0
+Delete "Yellow-Bellied Marmot"? (y|n)
+Enter animal name (or "q" to quit): Sheep: body = 55.5, brain = 175.0
+Delete "Sheep"? (y|n)
+Enter animal name (or "q" to quit): Roe Deer: body = 14.83, brain = 98.2
+Delete "Roe Deer"? (y|n)
+Enter animal name (or "q" to quit): File does not contain "Yellow Warbler".
+Add "Yellow Warbler" to file? (y|n) Enter body weight for "Yellow Warbler" in kilograms: Enter brain weight for "Yellow Warbler" in grams: 
+Enter animal name (or "q" to quit): File does not contain "Aardvark".
+Add "Aardvark" to file? (y|n) Enter body weight for "Aardvark" in kilograms: Enter brain weight for "Aardvark" in grams: 
+Enter animal name (or "q" to quit): File does not contain "Rocket".
+Add "Rocket" to file? (y|n) Enter body weight for "Rocket" in kilograms: Enter brain weight for "Rocket" in grams: 
+Enter animal name (or "q" to quit): 

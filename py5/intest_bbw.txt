@@ -1,0 +1,23 @@
+exit
+n
+African elephant
+y
+Yellow-bellied marmot
+y
+Sheep
+y
+Roe deer
+n
+Yellow Warbler
+y
+.43
+.043
+Aardvark
+y
+33
+4.5
+Rocket
+y
+17.1
+900
+q

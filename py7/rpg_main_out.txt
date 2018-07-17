@@ -1,0 +1,34 @@
+=================== ROUND 1 ===================
+Death_Mongrel (HP: 10)
+Hurt_then_Pain (HP: 10)
+Hurt_then_Pain attacks Death_Mongrel!
+	Hits for 4 hit points!
+	Death_Mongrel has 6 hit points remaining.
+Death_Mongrel attacks Hurt_then_Pain!
+	Misses!
+=================== ROUND 2 ===================
+Death_Mongrel (HP: 6)
+Hurt_then_Pain (HP: 10)
+Death_Mongrel attacks Hurt_then_Pain!
+	Hits for 3 hit points!
+	Hurt_then_Pain has 7 hit points remaining.
+Hurt_then_Pain attacks Death_Mongrel!
+	Hits for 2 hit points!
+	Death_Mongrel has 4 hit points remaining.
+=================== ROUND 3 ===================
+Death_Mongrel (HP: 4)
+Hurt_then_Pain (HP: 7)
+Death_Mongrel attacks Hurt_then_Pain!
+	Hits for 5 hit points!
+	Hurt_then_Pain has 2 hit points remaining.
+Hurt_then_Pain attacks Death_Mongrel!
+	Misses!
+=================== ROUND 4 ===================
+Death_Mongrel (HP: 4)
+Hurt_then_Pain (HP: 2)
+Death_Mongrel attacks Hurt_then_Pain!
+	Hits for 5 hit points!
+	Alas, Hurt_then_Pain has fallen!
+The battle is over!
+Death_Mongrel (HP: 4)
+Hurt_then_Pain (HP: -3)

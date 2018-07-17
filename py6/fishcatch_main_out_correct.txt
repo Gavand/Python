@@ -1,0 +1,8 @@
+   # NAME          MEAN WT
+  11 ?              154.8g
+  34 Bream          626.0g
+  56 Perch          382.2g
+  17 Pike           718.7g
+  20 Roach          152.1g
+  14 Smelt           11.2g
+   6 Whitefish      531.0g

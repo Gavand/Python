@@ -1,0 +1,8 @@
+Emoticons: 98
+UserIDs:   2878
+
+:)                   occurs      871 times
+:D                   occurs      377 times
+:(                   occurs      231 times
+;)                   occurs      219 times
+:P                   occurs      134 times

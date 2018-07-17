@@ -1,0 +1,15 @@
+
+-------tortoise.txt------
+Vowels:               232
+Consonants:           368
+Whitespace:           150
+Punctuation:           22
+-------------------------
+Total:                772
+
+Percent vowels:      30.1
+Percent consonants:  47.7
+Percent spaces:      19.4
+Percent punctuation:  2.8
+=========================
+
