@@ -1,8 +1,6 @@
 '''
     Author: Gavin Andrews
     Date: 4/12/18
-    Class: ISTA 130
-    Section Leader: Sebastian Andrews
     
     Description:
     The function of this program is to read data from from a given file,
