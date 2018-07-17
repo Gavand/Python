@@ -1,8 +1,6 @@
 '''
     Author: Gavin Andrews
     Date: 4/5/18
-    Class: ISTA 130
-    Section Leader: Sebastian Andrews
     
     Description:
     The main function of this program is to read a file from the user,

@@ -1,8 +1,6 @@
 '''
     Author: Gavin Andrews
     Date: 4/19/18
-    Class: ISTA 130
-    Section Leader: Sebastian Andrews
     
     Description:
     The function of this program is read and send a report of the frequent amount of emoticons in a tweet.

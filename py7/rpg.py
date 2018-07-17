@@ -1,8 +1,6 @@
 '''
     Author: Gavin Andrews
     Date: 4/26/18
-    Class: ISTA 130
-    Section Leader: Sebastian Andrews
     
     Description:
     The function of this program is to create an RPG

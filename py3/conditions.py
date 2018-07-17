@@ -1,8 +1,6 @@
 '''
     Author: Gavin Andrews
     Date: 2/22/18
-    Class: ISTA 130
-    Section Leader: Sebastian Andrews
     
     Description:
     This programs runs functions that tests simple conditional statements and return values.
