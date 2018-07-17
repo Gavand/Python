@@ -1,8 +1,6 @@
 '''
     Author: Gavin Andrews
     Date: 02/08/18
-    Class: ISTA 130
-    Section Leader: Sebastian Andrews
     
     Description:
     This program imports the turtle graphics and shows the first three letters of my name in green.
